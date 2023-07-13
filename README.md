@@ -1,0 +1,1 @@
+A fake hack that actually just pings OpenDNS, and echoes a piece of text.
